@@ -1,4 +1,4 @@
-# 📚 duolingo-tech-platform
+# 📚 Duolingo Tech Platform
 
 Plataforma de aprendizado gamificado inspirada no modelo do Duolingo, desenvolvida para ensinar tecnologia de forma prática, progressiva e interativa.
 
